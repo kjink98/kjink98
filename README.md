@@ -33,7 +33,11 @@
 
   <br/>
   <br/>
+  
   #### :pencil2: Study Website
-  <br/>
+   <br/>
+   
+  ## 개인적인 학습 노트
+  
   https://future-drill-021.notion.site/bb3e4ecf74ac403385cddb58772072dc
 </div>
