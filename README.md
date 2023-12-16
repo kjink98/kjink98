@@ -29,5 +29,11 @@
  
   #### :pencil2: Study log
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjink98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+
+
+  <br/>
+  <br/>
+  #### :pencil2: Study Website
+  <br/>
+  https://future-drill-021.notion.site/bb3e4ecf74ac403385cddb58772072dc
 </div>
